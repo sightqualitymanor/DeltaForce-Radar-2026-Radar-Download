@@ -1,0 +1,6 @@
+DeltaForce-Radar-2026-Radar-Download
+Edition: Performance Build
+Package reference: DeltaForce-Radar-2026
+Language: English
+Platform: Windows 10 / Windows 11 x64
+Read README.md before opening the downloaded package.
